@@ -1,10 +1,5 @@
-### Ali Köse
 
-### 030117090
-
-### Sinyal İşleme
-
-## Proje: MATLAB ile sentezleme
+## MATLAB ile sentezleme
 
 
 ## Notaların Oluşturulması

@@ -1,5 +1,5 @@
 
-## MATLAB ile sentezleme
+## MATLAB ile Sentezleme
 
 
 ## Notaların Oluşturulması
